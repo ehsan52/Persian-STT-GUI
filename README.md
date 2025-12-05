@@ -26,3 +26,4 @@ The GUI design and graphics are created by **Ehsan Eskandari (ehsan52)**.
 ```bash
 pip install stt
 pip install tflite_runtime
+**Be sure to download ffmpeg and put it in the project folder.
